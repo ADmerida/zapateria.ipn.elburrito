@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Menu de actividades</title>
+</head>
+<body>
+<center>
+<h1>Equipo 9 Merida Ocaña Jesus Adrian 2IM7 </h1><
+</center>
+
+<html>
+<head>
+<title>Menu de PRACTICAS</title>
+</head>
+<body background="https://st.depositphotos.com/2701349/4054/i/450/depositphotos_40545295-stock-photo-shadow-grey-obsolete-wall-background.jpg">
+<body bgcolor="black">
+<center>
+
+<tr>
+<td align="center" colspan="3"><h2>Menu de PRACTICAS</h2></td>
+</tr></center>
+<right>
+<tr><h3>
+<li><a href="file:OBJETOS.html" target="derecha">INSERCION DE OBJETOS</a></li>
+<br>
+<li><a href="file:FORMATO.html" target="derecha">FORMATO</a></li>
+<br>
+<li><a href="file:htlml.html" target="derecha">LISTAS</a></li>
+<br>
+<li><a href="file:tABLAS HTML.html" target="derecha">TABLAS</a></li>
+<br>
+<li><a href="file:Hipervinculos.html" target="derecha">HIPERVINCULOS</a></li>
+<br>
+<li><a href="file:HOMEWORK.html" target="derecha">CONTINENTES</a></li>
+<br>
+<li><a href="file:.html" target="derecha">ANIMALES</a></li>
+<br>
+<li><a href="file:indezironman.html" target="derecha">IRONMAN</a></li>
+</h3>
+</html>
+
+
+
+
+</html>
